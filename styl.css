@@ -1,0 +1,46 @@
+.rowfirst {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+    background-color: aquamarine;
+}
+
+.rowfirst {
+    padding: 1px;
+    margin: 10px;
+
+}
+
+.container{
+    background-color: aqua;
+    width: 300px;
+    margin: 0 auto;
+}
+
+button {
+    background-color:black;
+    border:solid indianred;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 50px;
+    height: 50px;
+}
+
+.style{
+    width: 100px;
+}
+.class{
+    width:100x;
+}
+.fasi{
+    width: 100px;
+}
